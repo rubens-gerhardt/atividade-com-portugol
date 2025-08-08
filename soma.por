@@ -16,6 +16,5 @@ programa {
     se(bah==1){
       escreva(n1+n2)
       }
-
   }
 }
